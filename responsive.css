@@ -1,0 +1,1658 @@
+@media only screen and (max-width: 600px) {
+    .navbar-nav{
+        margin-left: 0px;
+       
+     }
+     .navbar{
+        width: 100%;
+    }
+     .navbar-nav{
+        color: black;
+     
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    .navbar-nav .nav-link{
+        color: black;
+    }
+/* banner-start */
+    .banner .banner1{
+        width: 100%;
+        height: 800px;
+        /* border: 1px solid black; */
+        background-image: url(imges/high-resolution-img.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .banner1 .banner2{
+        height: 800px;
+        margin-top: 0px;
+    }
+    .banner1 .banner2 .banner3{
+        width: 100%;
+        height: 400px;
+        /* border: 1px solid black; */
+    }
+    .banner3 h1{
+        text-align: center;
+  margin-top: 20%;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  background-image: linear-gradient(rgb(33, 61, 145), rgb(69, 33, 108));
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px 4px 10px white);
+      
+    }
+    .banner3 h6{
+        color: white;
+         font-size: 15px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+    
+    .banner3 .banner4{
+        width: 250px;
+        height: 250px;
+        border: 1px solid rgb(254, 253, 253);
+        border-radius: 50%;
+        margin-top: 8%;
+        margin-left: 7%;
+        background-color: rgb(2, 37, 84);
+        box-shadow: 2px 8px 10px rgb(232, 192, 81);
+        animation: arjun 5s infinite;
+    }
+    .banner3 h5{
+        text-align: center;
+        font-size: 30px;
+        color: rgb(251, 218, 229);
+        
+    }
+    .banner3 h4{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        font-size: 17px;
+    }
+    .banner3 button{
+        margin-left: 15%;
+        margin-top: 30px;
+        border: none;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .banner3 img{
+        width: 250px;
+        height: 300px;
+        margin-top: -80%;
+      filter: drop-shadow(5px 5px 10px rgb(66, 228, 201));
+      /* border: 1px solid black; */
+    }
+    
+    
+    
+    /*  */
+    .popular1{
+        /* width: 100%; */
+        height: 1200px;
+    
+    margin-top: 10px;
+    }
+    .popular1 .popular2{
+        height: 1200px;
+    }
+    .popular1 .popular2 .popular3{
+        width: 100%;
+        height: 320px;
+       
+       
+    }
+    .popular1 h1{
+        font-size: 15px;
+        text-align: center;
+        margin-top: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+    }
+    .popular4{
+        display: flex;
+        justify-content: space-around;
+        background-color: rgb(214, 214, 214);
+        border-radius: 10px;
+    }
+    .popular4 .popular5{
+        width: 50%;
+        height: 360px;
+        /* border: 1px solid black; */
+    }
+    .popular4 .popular5 img{
+        width: 150px;
+        height: 250px;
+        margin-left: 8px;
+        margin-top: 70px;
+        /* border: 1px solid black; */
+    }
+    .popular5 p{
+        font-size: 16px;
+        margin-top: 100px;
+        color: red;
+        margin-left: 20px;
+    }
+    .popular5 h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+        margin-left: 0px;
+        margin-top: -10px;
+       
+    }
+    .popular5 button{
+        margin-top: 60px;
+        padding: 5px;
+        margin-left: 40px;
+        border-radius: 20px;
+        border: 1px solid red;
+        color: red;
+        font-family:   sans-serif;
+        background-color: white;
+    }
+    .popular3 .popular6{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(200, 200, 203);
+       margin-top: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+    }
+    .popular6 img{
+        width: 150px;
+        height: 170px;
+        margin-top: -50px;
+    }
+    .popular3 .popular7{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(200, 200, 203);
+       margin-top: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+    }
+    .popular7 img{
+        width: 150px;
+        height: 170px;
+        margin-top: -70px;
+    }
+    .popular3 .popular8{
+        width: 250px;
+        height: 250px;
+        background-color: rgb(200, 200, 203);
+       margin-top: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 10px;
+    }
+    .popular8 img{
+        width: 200px;
+        height: 250px;
+        margin-top: -100px;
+        margin-left: 30px;
+    }
+    /* flash start */
+.flash{
+   margin-top: 150px;
+    height: 1200px;
+  /* border: 1px solid black; */
+}
+.flash .flash1{
+    /* height: 1400px; */
+    margin-top: 0px;
+    
+}
+.flash .flash1 .flash2{
+   width: 100%;
+    height: 400px;
+    /* border: 1px solid black; */
+}
+.flash2 .flash3{
+    
+    width: 100%;
+    height: 400px;
+display: flex;
+justify-content: space-around;
+}
+.flash3 .flash4{
+    width: 50%;
+    height: 400px;
+   
+}
+.flash4 h3{
+    text-align: center;
+    font-size: 15px;
+}
+.flash4 img{
+    width: 150px;
+    /* border: 1px solid black; */
+}
+.audio-image{
+    
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    background-image: linear-gradient(rgba(38, 41, 43, 0.52), rgba(2, 1, 3, 0.73)), url('imges/young-caucasia.avif');
+}
+.audio-image .giving{
+    width: 300px;
+    height: 250px;
+    /* border: 1px solid black; */
+    position: relative;
+top: 80px;
+}
+.audio-image .pause{
+    /* border: 1px solid black; */
+    width: 100px;
+   /* margin-left: -40px; */
+    margin-top: 350px;
+}
+.pause img{
+ width: 100px;
+ height: 100px;
+ margin-top: 0px;
+ background-image: linear-gradient(red,  orange);
+ border-radius: 50%;
+ cursor: pointer;
+ margin-left: -30px;
+}
+.giving h1{
+    text-align: center;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.giving button{
+    margin-top: 200px;
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    background-image: linear-gradient(rgb(192, 126, 5), red);
+    color: white;
+}
+.progress0{
+    width: 100%;
+    height: 800px;
+   
+    
+}
+  .progress0 .progress1{
+    height: 800px;
+    margin-top: 0px;
+  }
+  .progress0 .progress1 .progress2{
+    width: 100%;
+    height: 200px;
+   
+    background-color: rgb(119, 204, 233);
+  }
+
+  /* new-arrival-start */
+  .new-product{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .new-product::after{
+    content: "";
+    display: block;
+    margin: 10px auto;
+    background-color: yellow;
+    height: 5px;
+    width: 150px;
+    border-radius: 5px;
+  }
+.new-arival{
+    width: 100%;
+    margin-top: 20px;
+   
+    height: 2000px;
+}
+.new-arival .new-arival1{
+   
+    margin-top: 0px;
+}
+.new-arival .new-arival1 .new-arival2{
+    height: 500px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.new-arival4 img{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 200px;
+    margin-left: 25%;
+}
+.new-arival4 .woofer{
+    height: 240px;
+    width: 250px;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+
+.new-arival5 h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.new-arival5 ul{
+    display: flex;
+    margin-left: 40px;
+}
+.new-arival5 ul li{
+    list-style: none;
+    margin-left: 10px;
+    color: rgb(226, 226, 4);
+}
+.new-arival5 p{
+    text-align: center;
+    margin-top: -20px;
+}
+.new-arival5 h6{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.new-arival5 button{
+    margin-left: 50px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+  /* new-arrival-end */
+
+   /* new-arrival-start-second */
+.second{
+    width: 100%;
+    height: 1720px;
+   /* border: 1px solid black; */
+    margin-top: 30px;
+}
+.second .second1{
+   
+    margin-top: 0px;
+}
+.second .second1 .second2{
+    height: 430px;
+    /* border: 1px solid black; */
+}
+.second2 .second3{
+    width: 100%;
+    height: 430px;
+  background-color: lavenderblush;
+    display: flex;
+    /* border: 1px solid black; */
+}
+.second3 .second4{
+width: 50%;
+height: 400px;
+
+}
+.second4 img{
+    /* border: 1px solid black; */
+}
+.second3 .second5{
+    width: 50%;
+    height: 400px;
+   
+}
+.second4 .salle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: lightsalmon;
+    float: right;
+}
+.salle p{
+    font-size: 17px;
+    position: relative;
+    top: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.second4 img{
+    width: 120px;
+    height: 160px;
+    margin-top: 20px;
+    
+}
+.second4 .ear-12{
+    width: 200px;
+    height: 180px;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.second4 h4{
+    font-size: 16px;
+}
+.second4 ul{
+    display: flex;
+    margin-left: 0px;
+}
+.second4 ul li{
+    list-style: none;
+    margin-left: 0px;
+    color: rgb(226, 226, 4);
+}
+.second4 p{
+    text-align: center;
+    margin-top: -20px;
+}
+.second4 h6{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second4 button{
+    margin-left: 0px;
+ font-size: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+.second4 .plus{
+    width: 20px;
+    height: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+}
+
+.second5 .salle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: lightsalmon;
+    float: right;
+}
+.salle p{
+    font-size: 17px;
+    position: relative;
+    top: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.second5 img{
+    width: 120px;
+    height: 160px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+}
+.second5 .ear-12{
+    width: 200px;
+    height: 180px;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.second5 h4{
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second5 ul{
+    display: flex;
+    margin-left: 0px;
+}
+.second5 ul li{
+    list-style: none;
+    margin-left: 0px;
+    color: rgb(226, 226, 4);
+}
+.second5 p{
+    text-align: center;
+    margin-top: -20px;
+}
+.second5 h6{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second5 button{
+    margin-left: 0px;
+ font-size: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    padding: 5px;
+}
+.second5 .plus{
+    width: 20px;
+    height: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+}
+  /* new-arrival-end-second */
+
+/* seating-music-start */
+.music0{
+    width: 100%;
+    height: 1200px;
+  
+    margin-top: 50px;
+}
+ .music0 .music1{
+    height: 1200px;
+ }
+.music0 .music1 .music2{
+    height: 400px;
+   
+    width: 100%;
+}
+.music2 .young-girl{
+    width: 100%;
+    height: 350px;
+    margin-top: 25px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.music2 .young-men{
+    width: 100%;
+    height: 450px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.music2 .music3{
+    width: 100%;
+    height: 350px;
+   
+ margin-top: 50px;
+ margin-left: 5px;
+}
+.music3 h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.music3 p{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 16px;
+}
+.music3 button{
+   
+    padding: 3px;
+    border-radius: 10px;
+    border: none;
+    background-color: orangered;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+  /* seating-music-end */
+
+  /* owl carousel-start */
+  .owl-carousel {
+    margin-top: 50px;
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 350px;
+}
+
+.owl-theme .item{
+    /* border: 1px solid black; */
+    height: 200px;
+   
+}
+
+
+  /* owl carousel-end */
+
+  /* company waranty-start */
+.waranty{
+    width: 100%;
+    height: 800px;
+   
+    margin-top: 100px;
+    background-color: white;
+}
+.waranty .waranty1{
+margin-top: 0px;
+height: 800px;
+}
+/* footer down-start */
+.footer-down .footer1{
+    width: 100%;
+    height: 1200px;
+  
+    margin-top: 50px;
+}
+.footer1 .footer2{
+    height: 1200px;
+    margin-top: 0px;
+}
+.footer1 .footer2 .footer3{
+    height: 400px;
+   
+}
+.footer3 .footer4{
+    width: 100%;
+    height: 400px;
+  
+}
+.footer4 h5{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer4 .toping{
+    width: 90%;
+   
+    margin-top: 20px;
+}
+.footer4 input{
+    width: 90%;
+    height: 40px;
+    border-radius: 30px;
+border: none;
+outline: none;
+background-color: rgb(242, 158, 158);
+
+margin-top: 50px;
+
+}
+.footer4 input::placeholder{
+    color: white;
+    padding-left: 20px;
+}
+.footer4 button{
+    margin-left: 130px;
+    border-radius: 30px;
+    border: none;
+    padding: 10px;
+    color: white;
+    background-image: linear-gradient(rgb(248, 189, 148), red);
+    margin-top: 30px;
+}
+.footer4 button:hover{
+    background-image: linear-gradient( red, rgb(241, 196, 140));
+}
+
+/* footer down-end */
+
+/* last-footer-start */
+.last1{
+    width: 100%;
+    margin-top: 30px;
+   
+    height: 150px;
+}
+.last1 .last2{
+    margin-top: 0px;
+    height: 150;
+}
+.last1 .last2 .last3{
+   
+    height: 50px;
+ 
+}
+.last-logo{
+    margin-top: 10px;
+    margin-left: 40%;
+   
+}
+/* last-footer-end */
+
+/* blue-html-start */
+.order1{
+    width: 100%;
+    height: 850px;
+  
+}
+.order1 .order2{
+    margin-top: 0px;
+   
+}
+.order1 .order2 .order3{
+    height: 280px;
+   
+}
+.order3 .all-images{
+  height: 100px;
+  
+}
+.order3  img{
+ 
+    cursor: pointer;
+     margin: 10px;
+   width: 50px;
+   height: 70px;
+   margin-left: 20px;
+  
+   }
+   .order3 #design11{
+    height: 350px;
+    width: 100%;
+    margin: 0px;
+   margin-top: -200px;
+  
+  }
+ 
+.order3 h1{
+    margin-top: -130px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.order3 span{
+    font-size: 30px;
+}
+.order3 .offer{
+    margin-left: 30px;
+    box-sizing: border-box;
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+.order3 ul{
+    display: flex;
+    margin-top: 20px;
+}
+.order3 ul li{
+    list-style: none;
+    padding-left: 20px;
+}
+.order3 .seat11{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+.order3 button{
+    margin-left: 30px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 9);
+    color: white;
+    font-weight: 600;
+}
+.order3 .buynow{
+    background-color: orange;
+    margin-left: 30%;
+}
+
+/* speaker-panasonic-start */
+.speaker1{
+    width: 100%;
+    height: 900px;
+   
+}
+.speaker1 .speaker2{
+  margin-top: 0px;
+}
+.speaker1 .speaker2 .speaker3{
+    height: 500px;
+   
+}
+.speaker3 .speaker4{
+    width: 100%;
+    height: 500px;
+   
+}
+.speaker4 .speaker5{
+    width: 100%;
+    height: 400px;
+  
+}
+.speaker4 .speaker6{
+    width: 100%;
+    height: 100px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.speaker6 img{
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 6px;
+   
+}
+.speaker5 #design11{
+    width: 100%;
+    height: 300px;
+}
+.speaker-3 h3{
+    margin-top: 0px;
+}
+.speaker-3 .seat11{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+  
+}
+.speaker-3 h2{
+    margin-top: -10px;
+}
+.speaker-3 .buynow{
+    background-color: orange;
+    margin-top: -40px;
+}
+.speaker-3 #timer{
+    width: 350px;
+    height: 50px;
+  
+    margin-top: 20px;
+    margin-left: -10px;
+    display: flex;
+    
+}
+#timer #days{
+width: 25%;
+height: 50px;
+
+font-size: 20px;
+color: red;
+text-align: center;
+}
+#timer #hours{
+    width: 25%;
+    height: 50px;
+   
+    font-size: 20px;
+    color: red;
+text-align: center;
+    }
+#timer #minutes{
+ width: 25%;
+ height: 50px;
+
+font-size: 18px;
+color: red;
+text-align: center;
+        }
+#timer #seconds{
+    width: 25%;
+    height: 50px;
+ 
+    font-size: 20px;
+    color: red;
+text-align: center;
+}
+
+/* speaker-panasonic-start */
+
+/* gaming product-start */
+.gaming1{
+    width: 100%;
+    height: 1200px;
+  
+    margin-top: 20px;
+
+}
+.gaming1 .gaming2{
+    margin-top: 0px;
+    height: 1200px;
+}
+.gaming1 .gaming2 .gaming3{
+    height: 300px;
+ border: 1px solid rgb(200, 199, 199);
+}
+.gaming3 .gaming4{
+    width: 100%;
+    height: 150px;
+  
+}
+.gaming4 img{
+    width: 50%;
+    height: 120px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.gaming3 .gaming5{
+    width: 100%;
+    height: 150px;
+ 
+    position: relative;
+}
+.gaming5 h5{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gaming5 p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.gaming5 span{
+    box-sizing: border-box;
+    background-color: rgb(221, 219, 219);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+   position: absolute;
+   top: 50px;
+   border-radius: 5px;
+   left: 20px;
+}
+.gaming5 h6{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.gaming5 a img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 170px;
+    top: 55px;
+}
+.gaming5 h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 205px;
+    top: 58px;
+    color: rgb(239, 136, 77);
+}
+.gaming5 h1{
+    font-size: 20px;
+    position: absolute;
+    top: 90px;
+    color: rgb(5, 5, 5);
+    left: 10px;
+    
+}
+/* gaming product-start */
+
+
+/* product-start */
+/* headphones-start */
+.best{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.best::after{
+    content: "";
+    display: block;
+    margin: 10px 10px;
+    background-color: orange;
+    width: 200px;
+    height: 4px;
+    border-radius: 3px;
+}
+
+.item{
+    width: 100%;
+    /* border: 1px solid black; */
+    
+}
+.owl-theme {
+    margin-top: -350px;
+    height: 350px;
+    /* border: 1px solid black; */
+}
+.owl-theme .item{
+    height: 350px;
+}
+.owl-carousel{
+    margin-top: 0px;
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 350px;
+}
+.item img{
+    width: 100%;
+    height: 300px;
+}
+/* headphones-end */
+/* product-end */
+
+.item .boxes{
+    width: 100%;
+    height: 180px;
+  
+
+}
+.item .boxes1{
+    width: 100%;
+    height: 150px;
+   
+}
+.boxes img{
+    width: 100%;
+    height: 170px;
+}
+.boxes1 h6{
+    font-size: 15px;
+}
+.boxes1 img{
+    height: 100px;
+    margin-left: 120px;
+    margin-top: -58px;
+    width: 160px !important;
+}
+.boxes1 .rse-2{
+    position: absolute;
+    top: 80px;
+    left: 140px;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    border-radius: 5px;
+    color: white;
+   }
+   .boxes1 .rse-3{
+       position: absolute;
+       top: 80px;
+       left: 220px;
+   }
+   .rse-3 .fa-cart-shopping{
+       font-size: 20px;
+       color: orange;
+   }
+
+/* hometheatre-start */
+.hometheater{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 30px;
+margin-left: 20px;
+}
+
+.hometheater::after{
+    content: "";
+    display: block;
+    margin: 10px 10px;
+    background-color: orange;
+    width: 200px;
+    height: 4px;
+    border-radius: 3px;
+}
+/* hometheatre-end */
+
+/* bluetooth-earbuds-start */
+.earbuds-1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 30px;
+margin-left: 20px;
+}
+.earbuds-1::after{
+    content: "";
+    display: block;
+    margin: 10px 10px;
+    background-color: orange;
+    width: 200px;
+    height: 4px;
+    border-radius: 3px;
+}
+
+/* bluetooth-earbuds-end */
+
+/* gaming-earbuds-start */
+.gamingg-1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 30px;
+margin-left: 20px;
+}
+.gamingg-1::after{
+    content: "";
+    display: block;
+    margin: 10px 10px;
+    background-color: orange;
+    width: 200px;
+    height: 4px;
+    border-radius: 3px;
+}
+/* gaming-earbuds-end */
+/* pagination-start */
+.pagination{
+    margin-left: 20%;
+    margin-top: 50px;
+    /* border: 1px solid rgb(128, 127, 127); */
+   margin-right: 42%;
+   border-radius: 7px;
+  
+}
+/* pagination-end */
+
+
+.about1{
+    width: 100%;
+     height: 700px;
+     /* border: 1px solid black; */
+     background-color: #2dc1a8;
+ }
+ .about1 .about2{
+     /* height: 800px; */
+    
+ }
+ .about1 .about2 .about3{
+     height: 350px;
+     /* border: 1px solid black; */
+     width: 100%;
+     position: relative;
+ }
+ .about3 img{
+     height: 400px;
+    margin-top: -20px;
+    margin-left: -10px;
+    /* border: 1px solid black; */
+   width: 300px;
+ }
+ .about3 h1{
+    position: absolute;
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(1, 0, 0);
+     top: -40px;
+     font-weight: 700;
+ }
+ .about3 h1::after{
+    content: "";
+    display: block;
+    background-color: orangered;
+    width: 100px;
+    height: 4px;
+    border-radius: 3px;
+    margin: 5px auto;
+ }
+
+ .about3 p{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(251, 251, 254);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about3 h3{
+    text-align: end;
+}
+.about3 .fa-fade{
+    position: absolute;
+    left: 50px;
+    top: 180px;
+    font-size: 178px;
+}
+/* relex-start */
+.relex-1{
+    margin-top: 50px;
+    /* border: 1px solid black; */
+    min-height: 800px;
+}
+.relex-1 .relex-2{
+    height: 800px;
+
+}
+.relex-1 .relex-2 .relex-3{
+    height: 400px;
+    /* border: 1px solid black; */
+}
+.relex-3 h1{
+    text-align: start;
+    margin-top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.relex-3 img{
+    margin-top: -5px;
+  width: 100%;
+  height: 500px;
+  border-radius: 50%;
+ 
+}
+.relex-3 p{
+    font-size: 17px;
+}
+/* relex-end */
+/* background-start */
+.background-0{
+    text-align: center;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rebeccapurple;
+}
+.background-1{
+    width: 100%;
+    height: 800px;
+    margin-top: 20px;
+   
+}
+.background-1 .background-2{
+    height: 800px;
+}
+.background-1 .background-2 .background-3{
+    height: 400px;
+    
+}
+.background-3 img{
+    width: 100%;
+    height: 400px;
+    
+   
+}
+.background-3 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* background-end */
+
+/* changes-life-start */
+.changes-1{
+    width: 100%;
+    height: 700px;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+}
+.changes-1 .changes-2{
+    height: 700px;
+}
+.changes-1 .changes-2 .changes-3{
+    height: 350px;
+    /* border: 1px solid black; */
+}
+.changes-3 img{
+    width: 100%;
+    height: 350px;
+    /* border: 1px solid black; */
+}
+.changes-3 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.changes-3 .fa-headphones{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 25%;
+    color: red;
+}
+.changes-3 .changes-4{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+.changes-4 .changes-5{
+    width: 30%;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+.changes-5 h4{
+    text-align: center;
+    color: rgb(46, 141, 1);
+    font-size: 20px;
+}
+.changes-4 .changes-6{
+    width: 70%;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+.changes-3 .changes-7{
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    display: flex;
+}
+.changes-7 .changes-8{
+    width: 30%;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+.changes-8 .fa-headset{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 25%;
+    color: red;
+}
+.changes-8 h4{
+    text-align: center;
+    color: rgb(46, 141, 1);
+    font-size: 20px;
+}
+.changes-7 .changes-9{
+    width: 70%;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+.changes-6 p{
+    font-size: 13px;
+}
+.changes-9 p{
+    font-size: 13px;
+}
+/* changes-life-end */
+
+/* cards-start */
+.cards-1{
+    width: 100%;
+    height: 2100px;
+    /* border: 1px solid black; */
+    margin-top: 60px;
+}
+.cards-1 .cards-2{
+    height: 2100px;
+
+}
+.cards-1 .cards-2 .cards-3{
+    height: 520px;
+    /* border: 1px solid black; */
+}
+.card{
+    height: 500px;
+}
+.card .card-body1{
+    height: 60px;
+}
+/* cards-end */
+
+/* music-progress-start */
+.review{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+.download1{
+    width: 100%;
+    height: 400px;
+    /* border: 1px solid black; */
+}
+.download1 .download2{
+    height: 400px;
+}
+.download1 .download2 .download3{
+    height: 200px;
+    /* border: 1px solid black; */
+}
+/* music-progress-end */
+ /* about-section-start */
+
+
+
+ /* contact-section- start */
+/* banner-start */
+.young-banner{
+    width: 100%;
+    height: 400px;
+    background-image: url(imges/young-man-listening-music-hip-hop-song-with-headphones-flat-cartoon-vector-illustration_123673-90.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.young-banner .young-111{
+    color: aliceblue;
+  position: absolute;
+  top: 250px;
+  left: 150px;
+  font-size: 30px;
+
+  }
+/* banner-end */
+
+/* deatils-start */
+.slowly-1{
+   
+    height: 1000px;
+   
+    margin-top: 30px;
+}
+.slowly-1 .details-2{
+    height: 1000px;
+
+}
+.slowly-1 .details-2 .details-3{
+    height: 500px;
+  
+}
+.details-3 .mapes{
+    width: 100%;
+    height: 500px;
+}
+.details-4 h1{
+    font-size: 33px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+.details-4 p{
+    font-size: 17px;
+}
+
+}
+.details-9 p{
+    color: black;
+    margin-top: -15px;
+}
+.details-11 p{
+    margin-top: -15px;
+}
+.details-10 p{
+    margin-top: -5px;
+}
+.details-8 h6{
+    font-size: 17px;
+}
+.details-9 h6{
+    font-size: 17px;
+}
+.details-10 h6{
+    font-size: 17px;
+}
+.details-11 h6{
+    font-size: 17px;
+}
+/* deatils-end */
+.messages-1{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: 80px;
+    background-color: #065572;
+}
+.messages-1 .messages-2{
+    height: 200px;
+    margin-top: 0px;
+}
+.messages-1 .messages-2 .messages-3{
+    height: 200px;
+    border: 5px solid rgb(251, 250, 250);
+}
+.messages-3 .messagess-4{
+    width: 100%;
+    height: 510px;
+    border: 5px solid rgb(251, 251, 251);
+    margin-top: 20%;
+    margin-left: -0%;
+    background-color: rgb(214, 155, 155);
+    border-radius: 10px;
+}
+.messages-5 h1{
+    text-align: center;
+    color: rgb(251, 250, 250);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+   font-size: 18px;
+}
+.messages-5 p{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.messages-6 .messages-7{
+    width: 100%;
+    height: 90px;
+    /* border: 1px solid red; */
+}
+.messages-8 .name-1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.messages-8 .name-2{
+    margin-left: 5px;
+    border: none;
+    border-radius: 7px;
+    outline-color: none;
+    outline: none;
+    width: 120px;
+    height: 35px;
+}
+.name-2::placeholder{
+    color: orange;
+}
+
+.messages-9 .name-1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.messages-9 .name-2{
+    margin-left: 0px;
+    border: none;
+    border-radius: 7px;
+    outline-color: none;
+    outline: none;
+    width: 120px;
+    height: 35px;
+}
+.messages-11{
+    width: 100%;
+    height: 90px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.messages-11 .messages-12{
+    width: 50%;
+    height: 90px;
+    /* border: 1px solid black; */
+}
+.messages-11 .messages-13{
+    width: 50%;
+    height: 90px;
+    /* border: 1px solid black; */
+}
+.messages-12 .name-1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.messages-12 .name-2{
+    margin-left: 5px;
+    border: none;
+    border-radius: 7px;
+    outline-color: none;
+    outline: none;
+    width: 120px;
+    height: 35px;
+}
+.messages-13 .name-1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.messages-13 .name-2{
+    margin-left: 0px;
+    border: none;
+    border-radius: 7px;
+    outline-color: none;
+    outline: none;
+    width: 120px;
+    height: 35px;
+}
+.messages-14{
+    width: 100%;
+    height: 70px;
+    /* border: 1px solid black; */
+}
+.messages-14 .name-1{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.messages-14 .name-3{
+    margin-left: 5px;
+    width: 250px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    height: 35px;
+}
+.messages-15 .name-1{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.messages-15 #messages-16{
+    width: 18rem;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.messages-17 .envelope-2{
+    width: 15rem;
+    margin-left: 45px;
+    margin-top: 4px;
+    height: 42px;
+    border-radius: 8px;
+    border: none;
+    background-color: orangered;
+    color: white;
+}
+.links-1{
+    width: 100%;
+    height: 200px;
+    margin-top: 240px;
+    border: 1px solid rgb(201, 200, 200);
+}
+.links-1 .links-2{
+    height: 200px;
+}
+.links-1 .links-2 .links-3{
+   
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: #61cbf2;
+    z-index: -100;
+}
+
+.icons-1{
+    width: 100%;
+    height: 60px;
+    border: 5px solid rgb(249, 247, 247);
+    margin-top: 30px;
+   
+}
+.icons-1 .icons-2{
+    height: 60px;
+}
+.icons-1 .icons-2 .icons-3{
+    height: 60px;
+    /* border: 1px solid black; */
+    background-color: #cccecd;
+}
+.icons-3 ul li{
+    list-style: none;
+    margin-left: 10px;
+}
+.icons-3 ul li a{
+    font-size: 20px;
+}
+/* contact-section-end */
+}
